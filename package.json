@@ -1,0 +1,24 @@
+{
+  "name": "typescript-test",
+  "version": "0.0.0",
+  "author": {
+    "name": "Yoy",
+    "email": ""
+  },
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "devDependencies": {
+    "@types/mocha": "^5.2.0",
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "ts-node": "^6.2.0",
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "test": "mocha --require ts-node/register/transpile-only 'test/**/*.ts'",
+    "watch": "npm test -- --watch --watch-extensions ts",
+    "ts-node": "ts-node ./src/DepCirculaire.ts"
+  },
+  "private": true
+}
