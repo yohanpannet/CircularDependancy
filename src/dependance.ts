@@ -30,6 +30,8 @@ export default class DependanceCirculaire {
     }
 
     equals (other: DependanceCirculaire): boolean {
+        // console.log("does " + this.shortDescription);
+        // console.log("equals " + other.shortDescription);
         let firstFile =  this.tsFiles[0];
         let currentFile = firstFile;
         let otherCurrentFile = other.getTSFile(currentFile.name);
@@ -39,6 +41,7 @@ export default class DependanceCirculaire {
         currentFile = currentFile.dependsOn;
         otherCurrentFile = otherCurrentFile.dependsOn;
         while (currentFile != firstFile){
+            // console.log(currentFile.name +  " =? " +otherCurrentFile.name);
             if (currentFile.name != otherCurrentFile.name) return false;
             currentFile = currentFile.dependsOn;
             otherCurrentFile = otherCurrentFile.dependsOn;
@@ -52,10 +55,12 @@ export default class DependanceCirculaire {
             let currentFile = file;
             let otherCurrentFile = other.getTSFile(currentFile.name);
             if (!otherCurrentFile) return false;
+            //console.log(currentFile.shortName +  " - dependsOn " +currentFile.dependsOn.name);
             while (currentFile.dependsOn.name != file.name) {
                 if (currentFile.name != otherCurrentFile.name) return false;
                 currentFile = currentFile.dependsOn;
                 otherCurrentFile = otherCurrentFile.dependsOn;
+                //console.log("  " + currentFile.shortName +  " - dependsOn " +currentFile.dependsOn.name);
             }
             if (currentFile.name != otherCurrentFile.name) return false;
             return true;

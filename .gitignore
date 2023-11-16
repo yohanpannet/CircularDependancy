@@ -1,4 +1,5 @@
 output/
 dc.txt
+dc.*.txt
 node_modules/
 .vscode/

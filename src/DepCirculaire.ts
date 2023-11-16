@@ -9,16 +9,17 @@ fs.readFile("./dc.txt", "utf8", (err, data) => {
     
     let dependancyGroup = new DependancyGroup(lines);
     console.log("nb lnes: "+ lines.length + " / nb dependencies: "+dependancyGroup.dependancies.length);
-    //dependancyGroup.printDependancies();
-    //dependancyGroup.getLengthDistribution().forEach((val, key) => {
-    //    console.log(key + " : "+val);
-    //});
-
-    dependancyGroup.printStatMap();
+    dependancyGroup.getLengthDistribution().forEach((val, key) => {
+           //console.log(key + " : "+val);
+    });
+    
+    dependancyGroup.printDependancies();
+    //dependancyGroup.printStatMap();
 })
 
 function filterLines(data: String): String[]{
     let lines = data.split('\n')
-        .filter(line => line !='' && line != 'WARNING in Circular dependency detected:');
+        .filter(line => line !='')
+        .filter(line => /Circular dependency detected/.test(line) == false);
     return lines;
 }
