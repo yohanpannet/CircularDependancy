@@ -12,7 +12,7 @@ export default class DependanceCirculaire {
     tsFiles: TSFile[] = [];
     constructor(private dpStr: String){
         let previousFile: TSFile;
-        dpStr.split(" -> ").forEach((name) => {
+        dpStr.split(" > ").forEach((name) => {
             let file = this.getTSFile(name);
             if (!file) {
                 file = new TSFile(name);
@@ -23,6 +23,8 @@ export default class DependanceCirculaire {
             }
             previousFile = file;
         })
+        //last 'file' depends on first one
+        this.tsFiles[this.tsFiles.length -1].dependsOn = this.tsFiles[0];
     }
 
     getTSFile(fileName: string): TSFile | undefined{
