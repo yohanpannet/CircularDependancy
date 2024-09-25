@@ -1,0 +1,725 @@
+3 : tournament-entries.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.ts -> tournament-entries.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+5 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+15 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+15 : result-list-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts
+17 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> BBOMember.ts
+19 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> large-image.component.ts -> bbo-screen.service.ts
+36 : bbo-chat.service.ts -> chat-input.component.ts -> bbo-chat.service.ts
+45 : bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> bbo-member.service.ts
+
+# 14.07.2019
+
+1 : pre-login-screen.component.ts -> bbo-screen.service.ts -> pre-login-screen.component.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+1 : vugraphManager.ts -> bridge-table.service.ts -> vugraphManager.ts
+3 : tournament-entries.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.ts -> tournament-entries.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+5 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+14 : result-list-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts
+14 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+17 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> BBOMember.ts
+19 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> large-image.component.ts -> bbo-screen.service.ts
+34 : bbo-chat.service.ts -> chat-input.component.ts -> bbo-chat.service.ts
+44 : bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> bbo-member.service.ts
+
+# 08.08.2019
+
+nb lnes: 158 / nb dependencies: 100
+1 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> profile-widget.component.ts -> bbo-member.service.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts -> results.service.ts -> director.service.ts -> td-command-popup.component.ts -> table-list-screen.component.ts -> table-list.component.ts -> table-list-item.component.ts -> table-widget.component.ts -> team-match.service.ts
+1 : vugraphManager.ts -> bridge-table.service.ts -> vugraphManager.ts
+1 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+3 : tournament-entries.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.ts -> tournament-entries.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+5 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+6 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+14 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> large-image.component.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+15 : large-image.component.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> profile-widget.component.ts -> large-image.component.ts
+17 : result-list-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts
+17 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> BBOMember.ts
+17 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+52 : bbo-member.service.ts -> profile-popup.component.ts -> profile-widget.component.ts -> bbo-member.service.ts
+
+# 09.08.2019
+nb lnes: 157 / nb dependencies: 100
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> table-widget.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> member-relationship.component.ts -> bbo-member.service.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts -> results.service.ts -> director.service.ts -> td-command-popup.component.ts -> table-list-screen.component.ts -> table-list.component.ts -> table-list-item.component.ts -> table-widget.component.ts -> team-match.service.ts
+1 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+1 : screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts -> screen.component.ts
+3 : tournament-entries.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.ts -> tournament-entries.ts
+5 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+6 : results.service.ts -> results-popup.component.ts -> results.service.ts
+6 : bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> table-widget.component.ts -> bridge-table.service.ts
+8 : table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> table-widget.component.ts
+8 : result-list-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts
+9 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+15 : bbo-member.service.ts -> profile-popup.component.ts -> member-relationship.component.ts -> bbo-member.service.ts
+17 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 12.08.2019
+ nb lnes: 156 / nb dependencies: 97
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+2 : component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+3 : tournament-entries.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.ts -> tournament-entries.ts
+6 : results.service.ts -> results-popup.component.ts -> results.service.ts
+7 : result-list-screen.component.ts -> result-list.component.ts -> result-list-screen.component.ts
+7 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+8 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+18 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 13.08.2019
+nb lnes: 153 / nb dependencies: 97
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+2 : component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+2 : send-movie-popup.component.ts -> deal-management.service.ts -> send-movie-popup.component.ts
+3 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+3 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : results.service.ts -> results-popup.component.ts -> results.service.ts
+6 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+19 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 10.09.2019
+nb lnes: 154 / nb dependencies: 97
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : navigation-list-item.ts -> navigation-list-item-collection.ts -> navigation-list-item.ts
+2 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+2 : component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+3 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+3 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+5 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+6 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+20 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 30.09.2019
+nb lnes: 152 / nb dependencies: 94
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : navigation-list-item.ts -> navigation-list-item-collection.ts -> navigation-list-item.ts
+1 : tournament-details-screen.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> tournament-details-screen.component.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+2 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+2 : component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts
+2 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+4 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+6 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+21 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 03.09.2019
+
+nb lnes: 150 / nb dependencies: 94
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : tournament-details-screen.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> tournament-details-screen.component.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : navigation-list-item.ts -> navigation-list-item-collection.ts -> navigation-list-item.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+2 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+2 : component-visibility-manager.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> deal-viewer.component.ts -> component-visibility-manager.ts
+2 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+4 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+5 : results.service.ts -> results-popup.component.ts -> results.service.ts
+6 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+11 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+23 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+
+# 07.10.2019
+
+nb lnes: 148 / nb dependencies: 91
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+2 : bbo-connection.service.ts -> language.service.ts -> web-util.service.ts -> bbo-connection.service.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+7 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+12 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+12 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+13 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+21 : results.service.ts -> results-popup.component.ts -> results.service.ts
+
+# 08.10.2019
+
+nb lnes: 141 / nb dependencies: 88
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> teamMatch.ts -> bridgeTable.ts
+1 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : bbo-mail.service.ts -> compose-mail-popup.component.ts -> bbo-mail.service.ts
+2 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+7 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+10 : BBOMember.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> BBOMember.ts
+12 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+12 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+13 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+21 : results.service.ts -> results-popup.component.ts -> results.service.ts
+
+# 08.10.2019
+
+nb lnes: 132 / nb dependencies: 83
+1 : asyncRobotDuplicate.ts -> solitaire.service.ts -> bridgeTable.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> asyncRobotDuplicate.ts
+1 : pre-login-screen.component.ts -> bbo-screen.service.ts -> pre-login-screen.component.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+1 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts
+4 : bridgeTable.ts -> solitaire.service.ts -> bridgeTable.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+7 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+8 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+9 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+11 : team-match.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+13 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+14 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+15 : results.service.ts -> results-popup.component.ts -> results.service.ts
+21 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 09.10.2019
+
+nb lnes: 132 / nb dependencies: 83
+
+1 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts
+1 : asyncRobotDuplicate.ts -> solitaire.service.ts -> bridgeTable.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> asyncRobotDuplicate.ts
+1 : pre-login-screen.component.ts -> bbo-screen.service.ts -> pre-login-screen.component.ts
+1 : bridgeMasterManager.ts -> bridge-table.service.ts -> bridgeMasterManager.ts
+4 : bridgeTable.ts -> solitaire.service.ts -> bridgeTable.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+7 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+8 : team-match.service.ts -> settings.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+8 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+9 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+13 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+15 : results.service.ts -> results-popup.component.ts -> results.service.ts
+17 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> settings.service.ts -> bbo-screen.service.ts
+21 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 10.10.2019
+
+nb lnes: 121 / nb dependencies: 75
+
+1 : format-tab.component.ts -> tournament-properties-popup.component.ts -> format-tab.component.ts
+1 : asyncRobotDuplicate.ts -> solitaire.service.ts -> bridgeTable.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> asyncRobotDuplicate.ts
+1 : vugraphMatch.ts -> bridgeTable.ts -> bridge-table.service.ts -> vugraphMatch.ts
+2 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+4 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> notification.service.ts
+4 : bridgeTable.ts -> solitaire.service.ts -> bridgeTable.ts
+6 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+7 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+9 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+9 : results.service.ts -> results-popup.component.ts -> results.service.ts
+25 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 06.01.2019
+
+nb lnes: 122 / nb dependencies: 74
+
+1 : format-tab.component.ts -> tournament-properties-popup.component.ts -> format-tab.component.ts
+1 : vugraphMatch.ts -> bridgeTable.ts -> bridge-table.service.ts -> vugraphMatch.ts
+1 : asyncRobotDuplicate.ts -> solitaire.service.ts -> bridgeTable.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> asyncRobotDuplicate.ts
+2 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts
+4 : bridgeTable.ts -> solitaire.service.ts -> bridgeTable.ts
+4 : notification.service.ts -> invitation-popup.component.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> notification.service.ts
+5 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+6 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+7 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+9 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+9 : results.service.ts -> results-popup.component.ts -> results.service.ts
+24 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 09.04.2020
+
+nb lnes: 111 / nb dependencies: 64
+1 : format-tab.component.ts -> tournament-properties-popup.component.ts -> format-tab.component.ts
+1 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> result-list-item.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+3 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+4 : result-list-item.component.ts -> result-list.component.ts -> deal-review-screen.component.ts -> deal-popup.component.ts -> deal-management.service.ts -> results.service.ts -> results-popup.component.ts -> result-list-item.component.ts
+4 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts -> bbo-screen.service.ts
+7 : results.service.ts -> results-popup.component.ts -> results.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+8 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+8 : team-match.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+10 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+10 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 14.05.2020
+nb lnes: 106 / nb dependencies: 62
+1 : anon-play-screen.component.ts -> navigation-list.component.ts -> navigation-list-button.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> anon-play-screen.component.ts
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> result-list-item.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+1 : hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> result-list-item.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> account-screen.component.ts -> hand-folder-panel.component.ts
+3 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+4 : result-list-item.component.ts -> result-list.component.ts -> deal-review-screen.component.ts -> deal-popup.component.ts -> deal-management.service.ts -> results.service.ts -> results-popup.component.ts -> result-list-item.component.ts
+4 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament-properties-popup.component.ts -> tournament.service.ts -> bbo-screen.service.ts
+6 : director.service.ts -> tournament-properties-popup.component.ts -> director.service.ts
+7 : results.service.ts -> results-popup.component.ts -> results.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+8 : team-match.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+11 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+11 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+
+# 08.06.2020
+nb lnes: 107 / nb dependencies: 63
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+1 : hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> account-screen.component.ts -> hand-folder-panel.component.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> manage-td-lists-popup.component.ts -> bbo-screen.service.ts
+4 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> td-command-popup.component.ts -> table-list-screen.component.ts -> tournament.service.ts
+6 : director.service.ts -> manage-td-lists-popup.component.ts -> director.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+8 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+11 : team-match.service.ts -> notification.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts
+13 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 09.06.2020
+nb lnes: 108 / nb dependencies: 64
+1 : bbo-chat-display.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+1 : hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> account-screen.component.ts -> hand-folder-panel.component.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : director.service.ts -> manage-td-lists-popup.component.ts -> director.service.ts
+3 : chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> chat-output.component.ts
+4 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> td-command-popup.component.ts -> table-list-screen.component.ts -> tournament.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+12 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+13 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+
+# 25.06.2020
+
+nb lnes: 108 / nb dependencies: 65
+1 : bbo-chat-display.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+1 : hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> bbo-screen.service.ts -> account-screen.component.ts -> hand-folder-panel.component.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+3 : director.service.ts -> manage-td-lists-popup.component.ts -> director.service.ts
+3 : chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> chat-output.component.ts
+3 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> team-match.service.ts -> director.service.ts -> tournament.service.ts
+4 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+7 : table-options-popup.component.ts -> table-options-panel.component.ts -> table-widget.component.ts -> name-tag.component.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts
+12 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> hmfag-get-partner-dialog.component.ts -> bbo-member.service.ts
+13 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 18.09.2020
+
+nb lnes: 107 / nb dependencies: 68
+1 : tournament-details-screen.component.ts -> tournament.service.ts -> bbo-screen.service.ts -> tournament-details-screen.component.ts
+1 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> bridge-screen.component.ts -> deal-viewer.component.ts
+1 : hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> results.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> account-screen.component.ts -> hand-folder-panel.component.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+3 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+3 : director.service.ts -> manage-td-lists-popup.component.ts -> director.service.ts
+5 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+5 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+13 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+15 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 09.11.2020
+
+nb lnes: 65 / nb dependencies: 42
+1 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+3 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+3 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+7 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+10 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+
+# 02.03.2021
+
+nb lnes: 64 / nb dependencies: 41
+1 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+3 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+3 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+7 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+10 : bbo-screen.service.ts -> chat-output.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+
+# 21.06.2021
+
+nb lnes: 67 / nb dependencies: 44
+2 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+3 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+3 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+4 : deal-viewer.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+8 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+11 : bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+
+# 31.03.2022
+
+nb lnes: 65 / nb dependencies: 40
+1 : edit-delete-list.component.ts -> add-edit-delete-list.component.ts -> edit-delete-list.component.ts
+1 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+2 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+3 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+3 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+5 : tournament.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+9 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 04.08.2022
+
+nb lnes: 89 / nb dependencies: 57
+1 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+1 : bridge-event-processor.ts -> bridgeEventPayloads.ts -> vote-processor.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> asyncRobotDuplicate.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> bridge-event-processor.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+3 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+4 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+5 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+5 : tournament.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+25 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 23.08.2022
+
+nb lnes: 88 / nb dependencies: 56
+1 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+1 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+1 : bridge-event-processor.ts -> bridgeEventPayloads.ts -> vote-processor.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> tournament.service.ts -> async-robot-duplicate.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> bridge-event-processor.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+3 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+4 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+4 : tournament.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+23 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 24.08.2022
+
+nb lnes: 86 / nb dependencies: 55
+1 : historic-tournament.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts
+1 : sound.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> sound.service.ts
+1 : vote-processor.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> director.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> vote-processor.ts
+1 : bridge-event-processor.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> results.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> bridge-event-processor.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+2 : tournament.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> tournament.service.ts
+3 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+22 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 15.05.2023
+
+nb lnes: 88 / nb dependencies: 55
+1 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+1 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+1 : vote-processor.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> vote-processor.ts
+1 : sound.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts
+1 : bridge-event-processor.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> bridge-event-processor.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+3 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+10 : bbo-chat-display.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts
+11 : screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts -> screen.component.ts
+22 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 24.08.2023
+
+nb lnes: 88 / nb dependencies: 56
+1 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+1 : result-list.component.ts -> deal-review-screen.component.ts -> result-list.component.ts
+1 : vote-processor.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> director.service.ts -> results.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> vote-processor.ts
+1 : sound.service.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts
+1 : bridge-event-processor.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bridge-table.service.ts -> director.service.ts -> results.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts -> bridge-event-processor.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+3 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts
+10 : bbo-chat-display.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts
+11 : screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts -> screen.component.ts
+18 : results.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts -> director.service.ts -> results.service.ts
+22 : deal-review-screen.component.ts -> deal-popup.component.ts -> deal-review-screen.component.ts
+
+# 16.11.2023 (Magde)
+nb lnes: 356 / nb dependencies: 356
+...
+119 : modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen -event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> modal-ref.ts
+125 : bbo-screen.service.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+127 : bbo-connection.service.ts -> notification.service.ts -> modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> bbo-connection.service.ts
+132 : modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> modal-ref.ts
+133 : notification.service.ts -> modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> notification.service.ts
+134 : bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bridge-table.service.ts -> bbo-member.service.ts
+135 : bbo-connection.service.ts -> notification.service.ts -> modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-connection.service.ts
+140 : bbo-connection.service.ts -> notification.service.ts -> bbo-connection.service.ts
+141 : bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts
+143 : notification.service.ts -> modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> notification.service.ts
+147 : modal-ref.ts -> modal-content.component.ts -> layout-resize-by-scale.ts -> bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> modal-ref.ts
+149 : bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat-display.service.ts
+149 : bbo-screen.service.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-screen.service.ts
+157 : bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-member.service.ts -> bbo-screen-event.service.ts
+169 : bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen.service.ts -> bbo-screen-event.service.ts
+171 : bbo-screen-event.service.ts -> screen.component.ts -> bbo-screen-event.service.ts
+171 : screen.component.ts -> bbo-screen.service.ts -> screen.component.ts
+
+
+# 06.12.2023
+nb lnes: 337 / nb dependencies: 337
+...
+100 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> language.service.ts
+101 : DealResult.ts -> director.service.ts -> DealResult.ts
+101 : sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> bridge-table.service.ts -> sound-player.service.ts
+102 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> language.service.ts
+103 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> language.service.ts
+107 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> language.service.ts
+108 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> bridge-table.service.ts -> bbo-screen.service.ts
+109 : bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> bbo-connection.service.ts
+114 : bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-connection.service.ts
+115 : notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> notification.service.ts
+117 : bbo-member.service.ts -> bridge-table.service.ts -> bbo-member.service.ts
+118 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> notification.service.ts -> language.service.ts
+119 : language.service.ts -> rxjsfy.ts -> bbo-connection.service.ts -> language.service.ts
+121 : bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> bbo-connection.service.ts
+127 : bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts
+127 : bbo-connection.service.ts -> notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> bbo-connection.service.ts
+127 : video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> video-chat.service.ts
+134 : notification.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> notification.service.ts
+138 : bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat-display.service.ts
+138 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> bbo-screen.service.ts
+140 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts
+141 : bbo-screen.service.ts -> screen.component.ts -> bbo-screen.service.ts
+142 : bbo-connection.service.ts -> notification.service.ts -> bbo-connection.service.ts
+
+#19.12.2023
+nb lnes: 272 / nb dependencies: 272
+...
+86 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer.component.ts
+88 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer.component.ts
+88 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts -> bbo-screen.service.ts
+89 : bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat-display.service.ts
+89 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts
+90 : bbo-screen.service.ts -> screen.component.ts -> bbo-screen.service.ts
+93 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> deal-viewer.component.ts
+94 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer.component.ts
+96 : card-image.component.ts -> deal-viewer-layout.ts -> card-image.component.ts
+98 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer-layout.ts
+
+#19.04.2024
+nb lnes: 333 / nb dependencies: 333
+...
+119 : bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat-display.service.ts
+119 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts
+120 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer.component.ts
+121 : bbo-screen.service.ts -> screen.component.ts -> bbo-screen.service.ts
+122 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer.component.ts
+123 : deal.ts -> deal-viewer.component.ts -> deal.ts
+130 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> deal-viewer.component.ts
+132 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer.component.ts
+132 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer-layout.ts
+133 : card-image.component.ts -> deal-viewer-layout.ts -> card-image.component.ts
+
+#03.05.2024
+nb lnes: 282 / nb dependencies: 282
+1 : deal-viewer.component.ts -> bidding-box.component.ts -> deal-viewer.component.ts
+1 : DealResult.ts -> DealResultSet.ts -> DealResult.ts
+1 : add-edit-delete-list.component.ts -> edit-delete-list.component.ts -> add-edit-delete-list.component.ts
+1 : deal-result-popup.service.ts -> results-popup.component.ts -> deal-result-popup.service.ts
+1 : sound.service.ts -> voice-control-popup.component.ts -> sound.service.ts
+1 : bridge-table.service.ts -> bidding-deal-source-manager.ts -> bridge-table.service.ts
+1 : bridge-table.service.ts -> bridgeMasterManager.ts -> bridge-table.service.ts
+1 : deal-viewer-layout.ts -> name-bar.component.ts -> deal-viewer-layout.ts
+1 : deal-viewer.component.ts -> call-explanation-manager.ts -> deal-viewer.component.ts
+1 : deal-viewer.component.ts -> instant-strategy.class.ts -> deal-viewer.component.ts
+1 : deal-viewer.component.ts -> screen-strategy.class.ts -> deal-viewer.component.ts
+1 : bbo-mail.service.ts -> mail-list.component.ts -> bbo-mail.service.ts
+1 : table-list-screen.component.ts -> table-list.component.ts -> table-list-screen.component.ts
+1 : bbo-connection.service.ts -> notification.service.ts -> modal.service.ts -> bbo-connection.service.ts
+1 : bridgeTable.ts -> bbo-member.service.ts -> profile-popup.component.ts -> bridgeTable.ts
+1 : general-utils.ts -> bridge-utils.ts -> language.service.ts -> web-util.service.ts -> general-utils.ts
+1 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> announcement-panel.component.ts -> deal-viewer-layout.ts
+1 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> vul-panel.component.ts -> deal-viewer-layout.ts
+1 : card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> tricks-panel.component.ts -> card-image.component.ts
+1 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> score-panel.component.ts -> deal-viewer.component.ts
+1 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> double-dummy-manager.ts -> deal-viewer.component.ts
+1 : bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> waiting-overlay.component.ts -> user-list.component.ts -> user-list-item.component.ts -> bbo-screen.service.ts
+1 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> nav-bar.component.ts -> bbo-member.service.ts
+1 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> settings-manager.ts -> deal-viewer.component.ts
+1 : bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-chat-display.service.ts
+1 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament-xml-parser.service.ts -> bbo-member.service.ts
+1 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> convention-card.service.ts -> modal2.service.ts
+1 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> bbo-member.service.ts
+1 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> ard-manager.ts -> notification.service.ts
+1 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> bbo-connection.service.ts
+1 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> vugraph-edit-player-profile.component.ts -> vugraph-operator.service.ts -> bridge-table.service.ts
+1 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-connection.service.ts
+1 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> manage-td-lists-popup.component.ts -> modal2.service.ts
+1 : asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> challenge-details-panel.component.ts -> asyncRobotDuplicate.ts
+1 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> hmfag-navigation.service.ts -> notification.service.ts
+1 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts -> modal2.service.ts
+1 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> bbo-connection.service.ts
+1 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> notification.service.ts
+2 : async-robot-duplicate.service.ts -> create-challenge-panel.component.ts -> async-robot-duplicate.service.ts
+2 : director.service.ts -> manage-td-lists-popup.component.ts -> director.service.ts
+2 : bbo-member.service.ts -> profile-popup.component.ts -> bbo-member.service.ts
+2 : tournament.ts -> tournament.ts -> tournament.ts
+2 : bbo-screen.service.ts -> screen.component.ts -> title-bar.component.ts -> menu.service.ts -> bbo-screen.service.ts
+2 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> tricks-panel.component.ts -> deal-viewer-layout.ts
+2 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> double-dummy-manager.ts -> deal-viewer-layout.ts
+2 : bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> historic-tournament.service.ts -> bbo-screen.service.ts
+2 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bridge-table.service.ts
+2 : asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> ard-manager.ts -> asyncRobotDuplicate.ts
+2 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> convention-card.service.ts -> tournament.ts
+2 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> modal2.service.ts
+2 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> challenge-details-panel.component.ts -> bbo-member.service.ts
+2 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> vugraph-edit-player-profile.component.ts -> vugraph-operator.service.ts -> bridgeTable.ts
+2 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> DealResult.ts -> deal.ts
+2 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> result-list.component.ts -> tournament.ts
+2 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> hmfag-navigation.service.ts -> modal2.service.ts
+2 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> bbo-connection.service.ts
+2 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> bbo-connection.service.ts
+3 : bbo-screen.service.ts -> screen.component.ts -> bbo-screen.service.ts
+3 : async-robot-duplicate.service.ts -> challenge-details-panel.component.ts -> async-robot-duplicate.service.ts
+3 : menu-manager.ts -> double-dummy-manager.ts -> menu-manager.ts
+3 : general-utils.ts -> bridge-utils.ts -> language.service.ts -> general-utils.ts
+3 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> score-panel.component.ts -> deal-viewer-layout.ts
+3 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> ard-manager.ts -> deal.ts
+3 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> notification.service.ts
+3 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> notification.service.ts
+3 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> deal.ts
+3 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> modal2.service.ts
+4 : bridge-utils.ts -> language.service.ts -> bridge-utils.ts
+4 : deal-review-screen.component.ts -> result-list.component.ts -> deal-review-screen.component.ts
+4 : bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> score-panel.component.ts -> bridge-event-processor.ts
+4 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> bridgeTable.ts
+4 : bbo-member.service.ts -> bbo-chat-display.service.ts -> chat-input.component.ts -> sound.service.ts -> bbo-member.service.ts
+4 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> ard-manager.ts -> deal-viewer.component.ts
+4 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> tournament.ts
+4 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> notification.service.ts
+4 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> tournament.ts
+4 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> deal-viewer.component.ts
+5 : deal-viewer-toolbar.component.ts -> score-panel.component.ts -> deal-viewer-toolbar.component.ts
+5 : bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> ard-manager.ts -> bridge-event-processor.ts
+5 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> bridge-table.service.ts
+5 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament.ts
+5 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> modal2.service.ts
+5 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> modal2.service.ts
+6 : bbo-chat-display.service.ts -> chat-input.component.ts -> bbo-chat-display.service.ts
+6 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> deal.ts
+6 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> deal.ts
+6 : deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> deal-result-popup.service.ts
+6 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> modal2.service.ts
+6 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> deal.ts
+6 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> bbo-connection.service.ts
+7 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> deal.ts
+7 : deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> deal-popup.component.ts
+7 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> tournament.ts
+8 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> deal-viewer.component.ts
+8 : results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> tournament-format.ts -> hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> results.service.ts
+8 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> deal-viewer.component.ts
+8 : asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> asyncRobotDuplicate.ts
+8 : asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> asyncRobotDuplicate.ts
+9 : hand-folder.service.ts -> hand-folder-panel.component.ts -> deal-management.service.ts -> hand-folder.service.ts
+9 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> bridge-table.service.ts
+9 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> deal.ts
+10 : hand-folder.service.ts -> hand-folder-panel.component.ts -> hand-folder.service.ts
+10 : bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> vote-processor.ts -> bridge-event-processor.ts
+10 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> menu-manager.ts -> deal-viewer-layout.ts
+10 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> claim-manager.ts -> deal-viewer.component.ts
+11 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> bbo-member.service.ts
+11 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> bridge-table.service.ts
+12 : bbo-screen.service.ts -> director.service.ts -> tournament.service.ts -> bbo-screen.service.ts
+12 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> bbo-member.service.ts
+12 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> bridgeTable.ts
+13 : director.service.ts -> tournament.service.ts -> director.service.ts
+13 : bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> async-robot-duplicate.service.ts -> bbo-screen.service.ts
+13 : director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> td-command-popup.component.ts -> director.service.ts
+13 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> bbo-connection.service.ts
+16 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> bbo-connection.service.ts
+17 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> bbo-connection.service.ts
+18 : director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> vugraphManager.ts -> director.service.ts
+20 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-connection.service.ts
+21 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> notification.service.ts
+22 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-connection.service.ts
+22 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> deal.ts
+23 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> notification.service.ts
+24 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> bbo-connection.service.ts
+25 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bbo-connection.service.ts
+26 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> modal2.service.ts
+27 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> bridge-table.service.ts
+27 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal.ts
+28 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal.ts
+29 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> notification.service.ts
+29 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal.ts
+29 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-viewer.component.ts
+30 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> bbo-connection.service.ts
+30 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> bridgeTable.ts
+32 : bbo-connection.service.ts -> notification.service.ts -> modal2.service.ts -> bbo-connection.service.ts
+32 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> notification.service.ts
+33 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> tournament.ts
+33 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> modal2.service.ts
+35 : bbo-connection.service.ts -> notification.service.ts -> bbo-connection.service.ts
+35 : bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> bbo-screen.service.ts
+39 : deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> results.service.ts -> deal-result-popup.service.ts
+41 : bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> bbo-chat.service.ts
+41 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> notification.service.ts
+42 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> modal2.service.ts
+43 : notification.service.ts -> modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> notification.service.ts
+47 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> modal2.service.ts
+50 : deal-result-popup.service.ts -> deal-popup.component.ts -> deal-review-screen.component.ts -> deal-result-popup.service.ts
+50 : tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> tournament.ts
+52 : deal-popup.component.ts -> deal-review-screen.component.ts -> deal-popup.component.ts
+52 : deal-result-popup.service.ts -> deal-popup.component.ts -> deal-result-popup.service.ts
+55 : asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> asyncRobotDuplicate.ts
+61 : modal2.service.ts -> board-traveller.component.ts -> tournament.ts -> asyncRobotDuplicate.ts -> deal.ts -> deal-viewer.component.ts -> modal2.service.ts
+64 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> bridge-table.service.ts
+67 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> bridge-table.service.ts
+69 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> deal-viewer.component.ts
+70 : bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> bbo-chat.service.ts
+70 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> bridgeTable.ts
+71 : sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> director.service.ts -> sound-player.service.ts
+71 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> bridgeTable.ts
+72 : tournament.ts -> asyncRobotDuplicate.ts -> tournament.ts
+74 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> deal.ts
+75 : bridgeTable.ts -> bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> bridgeTable.ts
+76 : deal.ts -> deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> deal.ts
+77 : bbo-screen.service.ts -> director.service.ts -> bbo-screen.service.ts
+78 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> bridge-table.service.ts -> deal-viewer.component.ts
+79 : bridge-table.service.ts -> table-options-popup.component.ts -> bridgeTable.ts -> bbo-member.service.ts -> bridge-table.service.ts
+79 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> sound-player.service.ts -> video-chat.service.ts -> size-change-manager.service.ts -> bbo-screen.service.ts -> bbo-member.service.ts
+81 : bridge-table.service.ts -> table-options-popup.component.ts -> bridge-table.service.ts
+81 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-end-panel.component.ts -> deal-viewer.component.ts
+84 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-viewer.component.ts
+85 : bbo-member.service.ts -> bbo-chat-display.service.ts -> bbo-chat.service.ts -> bbo-member.service.ts
+85 : card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> card-image.component.ts
+85 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> deal-viewer.component.ts
+86 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-viewer-layout.ts
+87 : deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> component-visibility-manager.ts -> deal-viewer-toolbar.component.ts
+88 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> bridge-master-panel.component.ts -> deal-viewer-layout.ts
+91 : bridgeTable.ts -> bbo-member.service.ts -> bridgeTable.ts
+100 : deal.ts -> deal-viewer.component.ts -> deal.ts
+111 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer.component.ts
+114 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer.component.ts
+118 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer-layout.ts -> deal-viewer.component.ts
+119 : deal-viewer.component.ts -> card-image.component.ts -> deal-viewer.component.ts
+121 : card-image.component.ts -> deal-viewer-layout.ts -> card-image.component.ts
+123 : deal-viewer-layout.ts -> bridge-event-processor.ts -> deal-viewer-toolbar.component.ts -> deal-viewer-layout.ts

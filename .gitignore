@@ -1,5 +1,5 @@
-output/
-dc.txt
-dc.*.txt
+#output/
+#dc.txt
+#dc.*.txt
 node_modules/
 .vscode/

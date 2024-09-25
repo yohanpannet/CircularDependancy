@@ -1,0 +1,264 @@
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/announcement-panel/announcement-panel.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/announcement-panel/announcement-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/bridge-master-panel/bridge-master-panel.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/bridge-master-panel/bridge-master-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-end-panel/deal-end-panel.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-end-panel/deal-end-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/score-panel/score-panel.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/ard-manager.ts -> src/app/services/asyncRobotDuplicates/async-robot-duplicate.service.ts -> src/app/widgets/tables/create-challenge-panel/create-challenge-panel.component.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/vote-processor.ts -> src/app/bridgeUI/deal-viewer/ard-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/bridge-event-processor.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/bridge-event-processor.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/call-explanation-manager.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/call-explanation-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/claim-manager.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/claim-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/component-visibility-manager.ts -> src/app/services/dealManagement/deal-management.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/component-visibility-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/vul-panel/vul-panel.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/bridge-event-processor.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/menu-manager.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/menu-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/permission-manager.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/permission-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/settings-manager.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/settings-manager.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/td-call-manager.ts -> src/app/bridgeUI/tdcall-dialog/tdcall-dialog.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/td-call-manager.ts
+
+mWarning: Circular dependency detected:
+src/app/bridgeUI/deal-viewer/vote-processor.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/vote-processor.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/name-bar/name-bar.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/name-bar/name-bar.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/score-panel/score-panel.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/score-panel/score-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/table-options-popup/table-options-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/bridgeUI/table-options-popup/table-options-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/tdcall-dialog/tdcall-dialog.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/td-call-manager.ts -> src/app/bridgeUI/tdcall-dialog/tdcall-dialog.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/trick-review-panel/trick-review-panel.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/trick-review-panel/trick-review-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/tricks-panel/tricks-panel.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/tricks-panel/tricks-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/bridgeUI/vul-panel/vul-panel.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer-layout.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer-toolbar/deal-viewer-toolbar.component.ts -> src/app/bridgeUI/vul-panel/vul-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts
+
+Warning: Circular dependency detected:
+src/app/models/bridge-games/bridgeTable.ts -> src/app/services/bridge/solitaire.service.ts -> src/app/models/bridge-games/bridgeTable.ts
+
+Warning: Circular dependency detected:
+src/app/models/bridge/bid-strategy/screen-strategy.class.ts -> src/app/bridgeUI/deal-viewer/bridge-event-processor.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/models/bridge/bidding-sequence-manager.ts -> src/app/models/bridge/bid-strategy/screen-strategy.class.ts
+
+Warning: Circular dependency detected:
+src/app/models/bridge/bidding-sequence-manager.ts -> src/app/models/bridge/bid-strategy/screen-strategy.class.ts -> src/app/bridgeUI/deal-viewer/bridge-event-processor.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/models/bridge/bidding-sequence-manager.ts
+
+Warning: Circular dependency detected:
+src/app/models/chat/chatMessage.ts -> src/app/utilities/art-manager.ts -> src/app/models/chat/chatMessage.ts
+
+Warning: Circular dependency detected:
+src/app/models/navigation/navigation-list-item-collection.ts -> src/app/models/navigation/navigation-list-item.ts -> src/app/models/navigation/navigation-list-item-collection.ts
+
+Warning: Circular dependency detected:
+src/app/models/navigation/navigation-list-item.ts -> src/app/models/navigation/navigation-list-item-collection.ts -> src/app/models/navigation/navigation-list-item.ts
+
+[0mWarning: Circular dependency detected:
+src/app/models/results/DealResult.ts -> src/app/models/results/DealResultSet.ts -> src/app/models/results/DealResult.ts
+
+Warning: Circular dependency detected:
+src/app/models/results/DealResultSet.ts -> src/app/models/results/DealResult.ts -> src/app/models/results/DealResultSet.ts
+
+Warning: Circular dependency detected:
+src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts
+
+Warning: Circular dependency detected:
+src/app/screens/play/bridge-screen/bridge-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/screens/play/bridge-screen/bridge-screen.component.ts
+
+Warning: Circular dependency detected:
+src/app/screens/play/table-list-screen/table-list-screen.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list-item/table-list-item.component.ts -> src/app/screens/play/table-list-screen/table-list-screen.component.ts
+
+Warning: Circular dependency detected:
+src/app/screens/play/table-list-screen/table-list/table-list-item/table-list-item.component.ts -> src/app/screens/play/table-list-screen/table-list-screen.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list-item/table-list-item.component.ts
+
+Warning: Circular dependency detected:
+src/app/screens/play/table-list-screen/table-list/table-list.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list-item/table-list-item.component.ts -> src/app/screens/play/table-list-screen/table-list-screen.component.ts -> src/app/screens/play/table-list-screen/table-list/table-list.component.ts
+
+Warning: Circular dependency detected:
+src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts
+
+Warning: Circular dependency detected:
+src/app/services/asyncRobotDuplicates/async-robot-duplicate.service.ts -> src/app/widgets/tables/create-challenge-panel/create-challenge-panel.component.ts -> src/app/services/asyncRobotDuplicates/async-robot-duplicate.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/widgets/chat-manager-popup/chat-manager-popup.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-mail.service.ts -> src/app/widgets/compose-mail-popup/compose-mail-popup.component.ts -> src/app/services/bbo/bbo-mail.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bridge/solitaire.service.ts -> src/app/models/bridge-games/bridgeTable.ts -> src/app/services/bridge/solitaire.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bridgeTables/bridge-table.service.ts -> src/app/bridgeUI/table-options-popup/table-options-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/bridgeTables/bridgeMasterManager.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/results-popup/results-popup.component.ts -> src/app/services/results/results.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bridgeTables/bridgeMasterManager.ts
+
+Warning: Circular dependency detected:
+src/app/services/bridgeTables/vugraphManager.ts -> src/app/widgets/users/edit-profile-panel/edit-profile-panel.component.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bridgeTables/vugraphManager.ts
+
+Warning: Circular dependency detected:
+src/app/services/conventionCards/convention-card.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/menu-manager.ts -> src/app/services/conventionCards/convention-card.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/dealManagement/deal-management.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/bridgeUI/deal-viewer/component-visibility-manager.ts -> src/app/services/dealManagement/deal-management.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/dealManagement/hand-folder.service.ts -> src/app/widgets/hand-folder-panel/hand-folder-panel.component.ts -> src/app/services/dealManagement/deal-management.service.ts -> src/app/services/dealManagement/hand-folder.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/director/director.service.ts -> src/app/widgets/director/manage-td-lists-popup/manage-td-lists-popup.component.ts -> src/app/services/director/director.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/director/tournament-management.service.ts -> src/app/widgets/director/team-match-properties-popup/team-match-properties-popup.component.ts -> src/app/services/director/tournament-management.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/menu.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/navigation/hmfag-navigation.service.ts -> src/app/widgets/tables/hmfag-get-partner-dialog/hmfag-get-partner-dialog.component.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/tournaments/tournament.service.ts -> src/app/services/navigation/hmfag-navigation.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/results-popup/results-popup.component.ts -> src/app/services/results/results.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/deal-result-popup.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/results/results.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/sound/sound.service.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/sound/sound.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/tournaments/historic-tournament.service.ts -> src/app/services/results/results.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/widgets/result-list/result-list.component.ts -> src/app/services/tournaments/historic-tournament.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/tournaments/tournament-xml-parser.service.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/tournaments/tournament.service.ts -> src/app/services/tournaments/tournament-xml-parser.service.ts
+
+Warning: Circular dependency detected:
+src/app/services/tournaments/tournament.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/tournaments/tournament.service.ts
+
+Warning: Circular dependency detected:
+src/app/utilities/art-manager.ts -> src/app/models/chat/chatMessage.ts -> src/app/utilities/art-manager.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/add-edit-delete-list/add-edit-delete-list.component.ts -> src/app/widgets/add-edit-delete-list/edit-delete-list/edit-delete-list.component.ts -> src/app/widgets/add-edit-delete-list/add-edit-delete-list.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/add-edit-delete-list/edit-delete-list/edit-delete-list.component.ts -> src/app/widgets/add-edit-delete-list/add-edit-delete-list.component.ts -> src/app/widgets/add-edit-delete-list/edit-delete-list/edit-delete-list.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/chat-manager-popup/chat-manager-popup.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/widgets/chat-manager-popup/chat-manager-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/chat-output/chat-output.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/notifications/notification.service.ts -> src/app/services/sound/sound-player.service.ts -> src/app/features/video-chat/services/video-chat.service.ts -> src/app/services/bbo/bbo-screen/size-change-manager.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/sound/sound.service.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/results.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/bridgeUI/deal-viewer/deal-viewer.component.ts -> src/app/widgets/chat-output/chat-output.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/compose-mail-popup/compose-mail-popup.component.ts -> src/app/services/bbo/bbo-mail.service.ts -> src/app/widgets/compose-mail-popup/compose-mail-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/deal-popup/deal-popup.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/widgets/deal-popup/deal-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/director/manage-td-lists-popup/manage-td-lists-popup.component.ts -> src/app/services/director/director.service.ts -> src/app/widgets/director/manage-td-lists-popup/manage-td-lists-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/director/td-command/td-command-popup.component.ts -> src/app/services/director/director.service.ts -> src/app/widgets/director/td-command/td-command-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/director/team-match-edit-popup/team-match-edit-popup.component.ts -> src/app/services/director/tournament-management.service.ts -> src/app/widgets/director/team-match-edit-popup/team-match-edit-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/director/team-match-properties-popup/team-match-properties-popup.component.ts -> src/app/services/director/tournament-management.service.ts -> src/app/widgets/director/team-match-properties-popup/team-match-properties-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/director/tournament-properties-popup/tournament-properties-popup.component.ts -> src/app/services/director/tournament-management.service.ts -> src/app/widgets/director/tournament-properties-popup/tournament-properties-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/hand-folder-panel/hand-folder-panel.component.ts -> src/app/services/dealManagement/deal-management.service.ts -> src/app/services/dealManagement/hand-folder.service.ts -> src/app/widgets/hand-folder-panel/hand-folder-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/result-list/result-list.component.ts -> src/app/screens/history/deal-review-screen/deal-review-screen.component.ts -> src/app/widgets/result-list/result-list.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/results-popup/results-popup.component.ts -> src/app/services/results/results.service.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/services/director/director.service.ts -> src/app/services/results/deal-result-popup.service.ts -> src/app/widgets/results-popup/results-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/tables/challenge-details-panel/challenge-details-panel.component.ts -> src/app/services/asyncRobotDuplicates/async-robot-duplicate.service.ts -> src/app/widgets/tables/challenge-details-panel/challenge-details-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/tables/create-challenge-panel/create-challenge-panel.component.ts -> src/app/services/asyncRobotDuplicates/async-robot-duplicate.service.ts -> src/app/widgets/tables/create-challenge-panel/create-challenge-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/tables/hmfag-get-partner-dialog/hmfag-get-partner-dialog.component.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/tournaments/tournament.service.ts -> src/app/services/navigation/hmfag-navigation.service.ts -> src/app/widgets/tables/hmfag-get-partner-dialog/hmfag-get-partner-dialog.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/tables/teaching-options-panel/teaching-options-panel.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/widgets/tables/teaching-options-panel/teaching-options-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/users/edit-profile-panel/edit-profile-panel.component.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bridgeTables/vugraphManager.ts -> src/app/widgets/users/edit-profile-panel/edit-profile-panel.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/users/profile-popup/profile-popup.component.ts -> src/app/services/bridgeTables/bridge-table.service.ts -> src/app/services/bbo/bbo-screen/bbo-screen.service.ts -> src/app/screens/screen/screen.component.ts -> src/app/widgets/title-bar/title-bar.component.ts -> src/app/services/menu.service.ts -> src/app/services/bbo/bbo-chat/bbo-chat-display.service.ts -> src/app/widgets/chat-input/chat-input.component.ts -> src/app/services/bbo/bbo-chat/bbo-chat.service.ts -> src/app/services/bbo/bbo-member/bbo-member.service.ts -> src/app/widgets/users/profile-popup/profile-popup.component.ts
+
+Warning: Circular dependency detected:
+src/app/widgets/voice-control-popup/voice-control-popup.component.ts -> src/app/services/sound/sound.service.ts -> src/app/widgets/voice-control-popup/voice-control-popup.component.ts
